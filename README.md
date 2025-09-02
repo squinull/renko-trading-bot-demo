@@ -32,8 +32,5 @@ python src/backtest.py --symbol BTCUSDT --interval 1h --brick-size 100
 python src/live_trading.py --symbol BTCUSDT --brick-size 50
 ```
 
-## Example Renko Chart
-![renko](./notebooks/sample_renko.png)
-
 ## License
 MIT
